@@ -41,27 +41,27 @@
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akashsurve/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="surveakash01@gmail.com" href="mailto:surveakash01@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/918668458742" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://akashsurve2377.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vaibhav-suryawanshi-6b7110157/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="vaibhavsuryawanshi015@gmail.com" href="mailto:vaibhavsuryawanshi015@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/917264942789" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  <a href="https://portfolio-vaibhav-suryawanshi.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
     <a href="https://twitter.com/AkashSurve2377" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
-<a href="https://leetcode.com/Akash2377/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
 </p>
 <h2>📊  Github Stats</h2>
 <br/>
 
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akash2377&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Vaibhav3534&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav3534&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akash2377&theme=rogue" alt="activitygraph" /> </p>
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Vaibhav3534&theme=rogue" alt="activitygraph" /> </p>
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash2377&theme=vision-friendly-dark" alt=""/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav3534&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Akash2377&no-frame=true" alt=""/></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash2377&theme=tokyonight" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav3534&theme=tokyonight" alt="summarycard"/> </p>
 
 <hr />
 
@@ -71,5 +71,5 @@
 <br>
 <h3 align="center"> 
   Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/Akash2377/count.svg" />
+  <img  src="https://profile-counter.glitch.me/Vaibhav3534/count.svg" />
 </h3>
